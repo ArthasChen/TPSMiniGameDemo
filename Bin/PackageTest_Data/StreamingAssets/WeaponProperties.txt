@@ -1,0 +1,2 @@
+Pistol,0.3,7,35,FullAuto
+Rifle,0.1,31,310,FullAuto
