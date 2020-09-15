@@ -1,5 +1,8 @@
 # TPSMiniGameDemo
-开发采用的Unity版本是2019.4.1f1，编译后的exe在Bin文件夹中。
+
+Demo的演示地址 : https://www.bilibili.com/video/BV1FD4y1o7PD/
+
+开发采用的Unity版本是2019.4.1f1，编译后的exe在Bin文件夹中。  
 
 1. 这是我学习Unity期间做的第三人称射击游戏Demo，从入门到做出Demo大概花了1个月的时间。
   主要完成了下面的功能：    
